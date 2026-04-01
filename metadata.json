@@ -1,0 +1,5 @@
+{
+  "name": "Gemini API Monitor",
+  "description": "A dashboard to monitor Gemini API usage, estimate tokens, and track RPD, RPM, and TPM.",
+  "requestFramePermissions": []
+}
